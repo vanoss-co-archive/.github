@@ -1,6 +1,5 @@
 {
   "name": "@vanoss-co-archive Node.js CI",
-  "categories": ["EcmaScript", "JavaScript", "TypeScript"],
   "description": "@vanoss-co-archive Node.js CI workflow template.",
   "filePatterns": ["package.json$"],
   "iconName": "nodejs-ci"
